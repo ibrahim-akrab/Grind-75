@@ -191,19 +191,19 @@
 
 ## Array <a name="1-array"></a>
 
-1. [Two Sum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-two-sum"></a>  
+1. [Two Sum](/)<a name="1-two-sum"></a>  
     > [Leetcode](https://leetcode.com/problems/two-sum/)  
     Yet to solve
 
-2. [Best Time to Buy and Sell Stock](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-best-time-to-buy-and-sell-stock"></a>  
+2. [Best Time to Buy and Sell Stock](/)<a name="2-best-time-to-buy-and-sell-stock"></a>  
     > [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
     Yet to solve
 
-3. [Majority Element](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-majority-element"></a>  
+3. [Majority Element](/)<a name="3-majority-element"></a>  
     > [Leetcode](https://leetcode.com/problems/majority-element/)  
     Yet to solve
 
-4. [Contains Duplicate](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-contains-duplicate"></a>  
+4. [Contains Duplicate](/)<a name="4-contains-duplicate"></a>  
     > [Leetcode](https://leetcode.com/problems/contains-duplicate/)  
     Yet to solve
 
@@ -211,690 +211,690 @@
     > [Leetcode](https://leetcode.com/problems/meeting-rooms/)  
     Yet to solve
 
-6. [Move Zeroes](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-move-zeroes"></a>  
+6. [Move Zeroes](/)<a name="6-move-zeroes"></a>  
     > [Leetcode](https://leetcode.com/problems/move-zeroes/)  
     Yet to solve
 
-7. [Squares of a Sorted Array](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-squares-of-a-sorted-array"></a>
+7. [Squares of a Sorted Array](/)<a name="7-squares-of-a-sorted-array"></a>
     > [Leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/)  
     Yet to solve
 
-8. [Insert Interval](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-insert-interval"></a>
+8. [Insert Interval](/)<a name="8-insert-interval"></a>
     > [Leetcode](https://leetcode.com/problems/insert-interval/)  
     Yet to solve
 
-9. [3Sum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-3sum"></a>
+9. [3Sum](/)<a name="9-3sum"></a>
     > [Leetcode](https://leetcode.com/problems/3sum/)  
     Yet to solve
 
-10. [Product of Array Except Self](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-product-of-array-except-self"></a>
+10. [Product of Array Except Self](/)<a name="10-product-of-array-except-self"></a>
     > [Leetcode](https://leetcode.com/problems/product-of-array-except-self/)  
     Yet to solve
 
-11. [Combination Sum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-combination-sum"></a>
+11. [Combination Sum](/)<a name="11-combination-sum"></a>
     > [Leetcode](https://leetcode.com/problems/combination-sum/)  
     Yet to solve
 
-12. [Merge Intervals](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-merge-intervals"></a>
+12. [Merge Intervals](/)<a name="12-merge-intervals"></a>
     > [Leetcode](https://leetcode.com/problems/merge-intervals/)  
     Yet to solve
 
-13. [Sort Colors](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-sort-colors"></a>
+13. [Sort Colors](/)<a name="13-sort-colors"></a>
     > [Leetcode](https://leetcode.com/problems/sort-colors/)  
     Yet to solve
 
-14. [Container With Most Water](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-container-with-most-water"></a>
+14. [Container With Most Water](/)<a name="14-container-with-most-water"></a>
     > [Leetcode](https://leetcode.com/problems/container-with-most-water/)  
     Yet to solve
 
-15. [Gas Station](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="15-gas-station"></a>
+15. [Gas Station](/)<a name="15-gas-station"></a>
     > [Leetcode](https://leetcode.com/problems/gas-station/)  
     Yet to solve
 
-16. [Longest Consecutive Sequence](hhttps://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="16-longest-consecutive-sequence"></a>
+16. [Longest Consecutive Sequence](/)<a name="16-longest-consecutive-sequence"></a>
     > [Leetcode](https://leetcode.com/problems/longest-consecutive-sequence/)  
     Yet to solve
 
-17. [Rotate Array](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="17-rotate-array"></a>
+17. [Rotate Array](/)<a name="17-rotate-array"></a>
     > [Leetcode](https://leetcode.com/problems/rotate-array/)  
     Yet to solve
 
-18. [Contiguous Array](hhttps://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="18-contiguous-array"></a>
+18. [Contiguous Array](/)<a name="18-contiguous-array"></a>
     > [Leetcode](https://leetcode.com/problems/contiguous-array/)  
     Yet to solve
 
-19. [Subarray Sum Equals K](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="19-subarray-sum-equals-k"></a>
+19. [Subarray Sum Equals K](/)<a name="19-subarray-sum-equals-k"></a>
     > [Leetcode](https://leetcode.com/problems/subarray-sum-equals-k/)  
     Yet to solve
 
-20. [Meeting Rooms II](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="20-meeting-rooms-ii"></a>
+20. [Meeting Rooms II](/)<a name="20-meeting-rooms-ii"></a>
     > [Leetcode](https://leetcode.com/problems/meeting-rooms-ii/)  
     Yet to solve
 
-21. [3Sum Closest](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="21-3sum-closest"></a>
+21. [3Sum Closest](/)<a name="21-3sum-closest"></a>
     > [Leetcode](https://leetcode.com/problems/3sum-closest/)  
     Yet to solve
 
-22. [Non-overlapping Intervals](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="22-non-overlapping-intervals"></a>
+22. [Non-overlapping Intervals](/)<a name="22-non-overlapping-intervals"></a>
     > [Leetcode](https://leetcode.com/problems/non-overlapping-intervals/)  
     Yet to solve
 
-23. [Employee Free Time](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="23-employee-free-time"></a>
+23. [Employee Free Time](/)<a name="23-employee-free-time"></a>
     > [Leetcode](https://leetcode.com/problems/employee-free-time/)  
     Yet to solve
 
-24. [Sliding Window Maximum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="24-sliding-window-maximum"></a>
+24. [Sliding Window Maximum](/)<a name="24-sliding-window-maximum"></a>
     > [Leetcode](https://leetcode.com/problems/sliding-window-maximum/)  
     Yet to solve
 
 ## Stack <a name="2-stack"></a>
 
-1. [Valid Parentheses](https://github.com/ibrahim-akrab/Grind-75/blob/main/) <a name="1-valid-parentheses"></a>  
+1. [Valid Parentheses](/) <a name="1-valid-parentheses"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-parentheses/)  
     Yet to solve
 
-2. [Implement Queue using Stacks](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-implement-queue-using-stacks"></a>
+2. [Implement Queue using Stacks](/)<a name="2-implement-queue-using-stacks"></a>
     > [Leetcode](https://leetcode.com/problems/implement-queue-using-stacks/)  
     Yet to solve
 
-3. [Min Stack](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-min-stack"></a>
+3. [Min Stack](/)<a name="3-min-stack"></a>
     > [Leetcode](https://leetcode.com/problems/min-stack/)  
     Yet to solve
 
-4. [Backspace String Compare](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-backspace-string-compare"></a>
+4. [Backspace String Compare](/)<a name="4-backspace-string-compare"></a>
     > [Leetcode](https://leetcode.com/problems/backspace-string-compare/)  
     Yet to solve
 
-5. [Evaluate Reverse Polish Notation](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-evaluate-reverse-polish-notation"></a>
+5. [Evaluate Reverse Polish Notation](/)<a name="5-evaluate-reverse-polish-notation"></a>
     > [Leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
     Yet to solve
 
-6. [Daily Temperatures](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-daily-temperatures"></a>
+6. [Daily Temperatures](/)<a name="6-daily-temperatures"></a>
     > [Leetcode](https://leetcode.com/problems/daily-temperatures/)  
     Yet to solve
 
-7. [Decode String](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-decode-string"></a>
+7. [Decode String](/)<a name="7-decode-string"></a>
     > [Leetcode](https://leetcode.com/problems/decode-string/)  
     Yet to solve
 
-8. [Asteroid Collision](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-asteroid-collision"></a>
+8. [Asteroid Collision](/)<a name="8-asteroid-collision"></a>
     > [Leetcode](https://leetcode.com/problems/asteroid-collision/)  
     Yet to solve
 
-9. [Basic Calculator II](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-basic-calculator-ii"></a>
+9. [Basic Calculator II](/)<a name="9-basic-calculator-ii"></a>
     > [Leetcode](https://leetcode.com/problems/basic-calculator-ii/)  
     Yet to solve
 
-10. [Trapping Rain Water](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-trapping-rain-water"></a>
+10. [Trapping Rain Water](/)<a name="10-trapping-rain-water"></a>
     > [Leetcode](https://leetcode.com/problems/trapping-rain-water/)  
     Yet to solve
 
-11. [Basic Calculator](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-basic-calculator"></a>
+11. [Basic Calculator](/)<a name="11-basic-calculator"></a>
     > [Leetcode](https://leetcode.com/problems/basic-calculator/)  
     Yet to solve
 
-12. [Largest Rectangle in Histogram](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-largest-rectangle-in-histogram"></a>
+12. [Largest Rectangle in Histogram](/)<a name="12-largest-rectangle-in-histogram"></a>
     > [Leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
     Yet to solve
 
-13. [Maximum Frequency Stack](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-maximum-frequency-stack"></a>
+13. [Maximum Frequency Stack](/)<a name="13-maximum-frequency-stack"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-frequency-stack/)  
     Yet to solve
 
-14. [Longest Valid Parentheses](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-longest-valid-parentheses"></a>
+14. [Longest Valid Parentheses](/)<a name="14-longest-valid-parentheses"></a>
     > [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/)  
     Yet to solve
 
 ## Linked List <a name="3-linked-list"></a>
 
-1. [Merge Two Sorted Lists](https://github.com/ibrahim-akrab/Grind-75/blob/main/) <a name="1-merge-two-sorted-lists"></a>  
+1. [Merge Two Sorted Lists](/) <a name="1-merge-two-sorted-lists"></a>  
     > [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)  
     Yet to solve
 
-2. [Linked List Cycle](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-linked-list-cycle"></a>
+2. [Linked List Cycle](/)<a name="2-linked-list-cycle"></a>
     > [Leetcode](https://leetcode.com/problems/linked-list-cycle/)  
     Yet to solve
 
-3. [Reverse Linked List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-reverse-linked-list"></a>
+3. [Reverse Linked List](/)<a name="3-reverse-linked-list"></a>
     > [Leetcode](https://leetcode.com/problems/reverse-linked-list/)  
     Yet to solve
 
-4. [Middle of the Linked List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-middle-of-the-linked-list"></a>
+4. [Middle of the Linked List](/)<a name="4-middle-of-the-linked-list"></a>
     > [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)  
     Yet to solve
 
-5. [Palindrome Linked List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-palindrome-linked-list"></a>
+5. [Palindrome Linked List](/)<a name="5-palindrome-linked-list"></a>
     > [Leetcode](https://leetcode.com/problems/palindrome-linked-list/)  
     Yet to solve
 
-6. [LRU Cache](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-lru-cache"></a>
+6. [LRU Cache](/)<a name="6-lru-cache"></a>
     > [Leetcode](https://leetcode.com/problems/lru-cache/)  
     Yet to solve
 
-7. [Remove Nth Node From End of List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-remove-nth-node-from-end-of-list"></a>
+7. [Remove Nth Node From End of List](/)<a name="7-remove-nth-node-from-end-of-list"></a>
     > [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
     Yet to solve
 
-8. [Swap Nodes in Pairs](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-swap-nodes-in-pairs"></a>
+8. [Swap Nodes in Pairs](/)<a name="8-swap-nodes-in-pairs"></a>
     > [Leetcode](https://leetcode.com/problems/swap-nodes-in-pairs/)  
     Yet to solve
 
-9. [Odd Even Linked List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-odd-even-linked-list"></a>
+9. [Odd Even Linked List](/)<a name="9-odd-even-linked-list"></a>
     > [Leetcode](https://leetcode.com/problems/odd-even-linked-list/)  
     Yet to solve
 
-10. [Add Two Numbers](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-add-two-numbers"></a>
+10. [Add Two Numbers](/)<a name="10-add-two-numbers"></a>
     > [Leetcode](https://leetcode.com/problems/add-two-numbers/)  
     Yet to solve
 
-11. [Sort List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-sort-list"></a>
+11. [Sort List](/)<a name="11-sort-list"></a>
     > [Leetcode](https://leetcode.com/problems/sort-list/)  
     Yet to solve
 
-12. [Reorder List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-reorder-list"></a>
+12. [Reorder List](/)<a name="12-reorder-list"></a>
     > [Leetcode](https://leetcode.com/problems/reorder-list/)  
     Yet to solve
 
-13. [Rotate List](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-rotate-list"></a>
+13. [Rotate List](/)<a name="13-rotate-list"></a>
     > [Leetcode](https://leetcode.com/problems/rotate-list/)  
     Yet to solve
 
-14. [Reverse Nodes in k-Group](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-reverse-nodes-in-k-group"></a>
+14. [Reverse Nodes in k-Group](/)<a name="14-reverse-nodes-in-k-group"></a>
     > [Leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
     Yet to solve
 
 ## String <a name="4-string"></a>
 
-1. [Valid Palindrome](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="valid-palindrome"></a>  
+1. [Valid Palindrome](/)<a name="valid-palindrome"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-palindrome/)  
     Yet to solve
 
-2. [Valid Anagram](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="valid-anagram"></a>  
+2. [Valid Anagram](/)<a name="valid-anagram"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-anagram/)  
     Yet to solve
 
-3. [Longest Palindrome](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-longest-palindrome"></a>
+3. [Longest Palindrome](/)<a name="3-longest-palindrome"></a>
     > [Leetcode](https://leetcode.com/problems/longest-palindrome/)  
     Yet to solve
 
-4. [Longest Common Prefix](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-longest-common-prefix"></a>
+4. [Longest Common Prefix](/)<a name="4-longest-common-prefix"></a>
     > [Leetcode](https://leetcode.com/problems/longest-common-prefix/)  
     Yet to solve
 
-5. [Longest Substring Without Repeating Characters](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-longest-substring-without-repeating-characters"></a>
+5. [Longest Substring Without Repeating Characters](/)<a name="5-longest-substring-without-repeating-characters"></a>
     > [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
     Yet to solve
 
-6. [String to Integer (atoi)](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-string-to-integer-(atoi)"></a>
+6. [String to Integer (atoi)](/)<a name="6-string-to-integer-(atoi)"></a>
     > [Leetcode](https://leetcode.com/problems/string-to-integer-(atoi)/)  
     Yet to solve
 
-7. [Longest Palindromic Substring](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-longest-palindromic-substring"></a>
+7. [Longest Palindromic Substring](/)<a name="7-longest-palindromic-substring"></a>
     > [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/)  
     Yet to solve
 
-8. [Find All Anagrams in a String](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-find-all-anagrams-in-a-string"></a>
+8. [Find All Anagrams in a String](/)<a name="8-find-all-anagrams-in-a-string"></a>
     > [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  
     Yet to solve
 
-9. [Group Anagrams](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-group-anagrams"></a>
+9. [Group Anagrams](/)<a name="9-group-anagrams"></a>
     > [Leetcode](https://leetcode.com/problems/group-anagrams/)  
     Yet to solve
 
-10. [Longest Repeating Character Replacement](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-longest-repeating-character-replacement"></a>
+10. [Longest Repeating Character Replacement](/)<a name="10-longest-repeating-character-replacement"></a>
     > [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/)  
     Yet to solve
 
-11. [Largest Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-largest-number"></a>
+11. [Largest Number](/)<a name="11-largest-number"></a>
     > [Leetcode](https://leetcode.com/problems/largest-number/)  
     Yet to solve
 
-12. [Encode and Decode Strings](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-encode-and-decode-strings"></a>
+12. [Encode and Decode Strings](/)<a name="12-encode-and-decode-strings"></a>
     > [Leetcode](https://leetcode.com/problems/encode-and-decode-strings/)  
     Yet to solve
 
-13. [Minimum Window Substring](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-minimum-window-substring"></a>
+13. [Minimum Window Substring](/)<a name="13-minimum-window-substring"></a>
     > [Leetcode](https://leetcode.com/problems/minimum-window-substring/)  
     Yet to solve
 
-14. [Palindrome Pairs](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-palindrome-pairs"></a>
+14. [Palindrome Pairs](/)<a name="14-palindrome-pairs"></a>
     > [Leetcode](https://leetcode.com/problems/palindrome-pairs/)  
     Yet to solve
 
 ## Binary Tree <a name="5-binary-tree"></a>
 
-1. [Invert Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-invert-binary-tree"></a>
+1. [Invert Binary Tree](/)<a name="1-invert-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/invert-binary-tree/)  
     Yet to solve
 
-2. [Balanced Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-balanced-binary-tree"></a>
+2. [Balanced Binary Tree](/)<a name="2-balanced-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/balanced-binary-tree/)  
     Yet to solve
 
-3. [Diameter of Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-diameter-of-binary-tree"></a>
+3. [Diameter of Binary Tree](/)<a name="3-diameter-of-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/diameter-of-binary-tree/)  
     Yet to solve
 
-4. [Maximum Depth of Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-maximum-depth-of-binary-tree"></a>
+4. [Maximum Depth of Binary Tree](/)<a name="4-maximum-depth-of-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
     Yet to solve
 
-5. [Same Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-same-tree"></a>
+5. [Same Tree](/)<a name="5-same-tree"></a>
     > [Leetcode](https://leetcode.com/problems/same-tree/)  
     Yet to solve
 
-6. [Symmetric Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-symmetric-tree"></a>
+6. [Symmetric Tree](/)<a name="6-symmetric-tree"></a>
     > [Leetcode](https://leetcode.com/problems/symmetric-tree/)  
     Yet to solve
 
-7. [Subtree of Another Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-subtree-of-another-tree"></a>
+7. [Subtree of Another Tree](/)<a name="7-subtree-of-another-tree"></a>
     > [Leetcode](https://leetcode.com/problems/subtree-of-another-tree/)  
     Yet to solve
 
-8. [Binary Tree Level Order Traversal](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-binary-tree-level-order-traversal"></a>
+8. [Binary Tree Level Order Traversal](/)<a name="8-binary-tree-level-order-traversal"></a>
     > [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
     Yet to solve
 
-9. [Lowest Common Ancestor of a Binary Tree](hhttps://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-lowest-common-ancestor-of-a-binary-tree"></a>
+9. [Lowest Common Ancestor of a Binary Tree](h/)<a name="9-lowest-common-ancestor-of-a-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
     Yet to solve
 
-10. [Binary Tree Right Side View](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-binary-tree-right-side-view"></a>
+10. [Binary Tree Right Side View](/)<a name="10-binary-tree-right-side-view"></a>
     > [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)  
     Yet to solve
 
-11. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-construct-binary-tree-from-preorder-and-inorder-traversal"></a>
+11. [Construct Binary Tree from Preorder and Inorder Traversal](/)<a name="11-construct-binary-tree-from-preorder-and-inorder-traversal"></a>
     > [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
     Yet to solve
 
-12. [Path Sum II](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-path-sum-ii"></a>
+12. [Path Sum II](/)<a name="12-path-sum-ii"></a>
     > [Leetcode](https://leetcode.com/problems/path-sum-ii/)  
     Yet to solve
 
-13. [Maximum Width of Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-maximum-width-of-binary-tree"></a>
+13. [Maximum Width of Binary Tree](/)<a name="13-maximum-width-of-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-width-of-binary-tree/)  
     Yet to solve
 
-14. [Binary Tree Zigzag Level Order Traversal](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-binary-tree-zigzag-level-order-traversal"></a>
+14. [Binary Tree Zigzag Level Order Traversal](/)<a name="14-binary-tree-zigzag-level-order-traversal"></a>
     > [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  
     Yet to solve
 
-15. [Path Sum III](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="15-path-sum-iii"></a>
+15. [Path Sum III](/)<a name="15-path-sum-iii"></a>
     > [Leetcode](https://leetcode.com/problems/path-sum-iii/)  
     Yet to solve
 
-16. [All Nodes Distance K in Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="16-all-nodes-distance-k-in-binary-tree"></a>
+16. [All Nodes Distance K in Binary Tree](/)<a name="16-all-nodes-distance-k-in-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)  
     Yet to solve
 
-17. [Serialize and Deserialize Binary Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="17-serialize-and-deserialize-binary-tree"></a>
+17. [Serialize and Deserialize Binary Tree](/)<a name="17-serialize-and-deserialize-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
     Yet to solve
 
-18. [Binary Tree Maximum Path Sum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="18-binary-tree-maximum-path-sum"></a>
+18. [Binary Tree Maximum Path Sum](/)<a name="18-binary-tree-maximum-path-sum"></a>
     > [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  
     Yet to solve
 
 ## Binary Search <a name="6-binary-search"></a>
 
-1. [Binary Search](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-binary-search"></a>
+1. [Binary Search](/)<a name="1-binary-search"></a>
     > [Leetcode](https://leetcode.com/problems/binary-search/)  
     Yet to solve
 
-2. [First Bad Version](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-first-bad-version"></a>
+2. [First Bad Version](/)<a name="2-first-bad-version"></a>
     > [Leetcode](https://leetcode.com/problems/first-bad-version/)  
     Yet to solve
 
-3. [Search in Rotated Sorted Array](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-search-in-rotated-sorted-array"></a>
+3. [Search in Rotated Sorted Array](/)<a name="3-search-in-rotated-sorted-array"></a>
     > [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
     Yet to solve
 
-4. [Time Based Key-Value Store](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-time-based-key-value-store"></a>
+4. [Time Based Key-Value Store](/)<a name="4-time-based-key-value-store"></a>
     > [Leetcode](https://leetcode.com/problems/time-based-key-value-store/)  
     Yet to solve
 
-5. [Search a 2D Matrix](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-search-a-2d-matrix"></a>
+5. [Search a 2D Matrix](/)<a name="5-search-a-2d-matrix"></a>
     > [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
     Yet to solve
 
-6. [Find Minimum in Rotated Sorted Array](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-find-minimum-in-rotated-sorted-array"></a>
+6. [Find Minimum in Rotated Sorted Array](/)<a name="6-find-minimum-in-rotated-sorted-array"></a>
     > [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
     Yet to solve
 
-7. [Maximum Profit in Job Scheduling](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-maximum-profit-in-job-scheduling"></a>
+7. [Maximum Profit in Job Scheduling](/)<a name="7-maximum-profit-in-job-scheduling"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  
     Yet to solve
 
-8. [Median of Two Sorted Arrays](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-median-of-two-sorted-arrays"></a>
+8. [Median of Two Sorted Arrays](/)<a name="8-median-of-two-sorted-arrays"></a>
     > [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
     Yet to solve
 
 ## Graph <a name="7-graph"></a>
 
-1. [Flood Fill](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-flood-fill"></a>
+1. [Flood Fill](/)<a name="1-flood-fill"></a>
     > [Leetcode](https://leetcode.com/problems/flood-fill/)  
     Yet to solve
 
-2. [01 Matrix](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-01-matrix"></a>
+2. [01 Matrix](/)<a name="2-01-matrix"></a>
     > [Leetcode](https://leetcode.com/problems/01-matrix/)  
     Yet to solve
 
-3. [Clone Graph](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-clone-graph"></a>
+3. [Clone Graph](/)<a name="3-clone-graph"></a>
     > [Leetcode](https://leetcode.com/problems/clone-graph/)  
     Yet to solve
 
-4. [Course Schedule](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-course-schedule"></a>
+4. [Course Schedule](/)<a name="4-course-schedule"></a>
     > [Leetcode](https://leetcode.com/problems/course-schedule/)  
     Yet to solve
 
-5. [Number of Islands](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-number-of-islands"></a>
+5. [Number of Islands](/)<a name="5-number-of-islands"></a>
     > [Leetcode](https://leetcode.com/problems/number-of-islands/)  
     Yet to solve
 
-6. [Rotting Oranges](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-rotting-oranges"></a>
+6. [Rotting Oranges](/)<a name="6-rotting-oranges"></a>
     > [Leetcode](https://leetcode.com/problems/rotting-oranges/)  
     Yet to solve
 
-7. [Accounts Merge](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-accounts-merge"></a>
+7. [Accounts Merge](/)<a name="7-accounts-merge"></a>
     > [Leetcode](https://leetcode.com/problems/accounts-merge/)  
     Yet to solve
 
-8. [Word Search](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-word-search"></a>
+8. [Word Search](/)<a name="8-word-search"></a>
     > [Leetcode](https://leetcode.com/problems/word-search/)  
     Yet to solve
 
-9. [Minimum Height Trees](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-minimum-height-trees"></a>
+9. [Minimum Height Trees](/)<a name="9-minimum-height-trees"></a>
     > [Leetcode](https://leetcode.com/problems/minimum-height-trees/)  
     Yet to solve
 
-10. [Pacific Atlantic Water Flow](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-pacific-atlantic-water-flow"></a>
+10. [Pacific Atlantic Water Flow](/)<a name="10-pacific-atlantic-water-flow"></a>
     > [Leetcode](https://leetcode.com/problems/pacific-atlantic-water-flow/)  
     Yet to solve
 
-11. [Shortest Path to Get Food](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-shortest-path-to-get-food"></a>
+11. [Shortest Path to Get Food](/)<a name="11-shortest-path-to-get-food"></a>
     > [Leetcode](https://leetcode.com/problems/shortest-path-to-get-food/)  
     Yet to solve
 
-12. [Graph Valid Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-graph-valid-tree"></a>
+12. [Graph Valid Tree](/)<a name="12-graph-valid-tree"></a>
     > [Leetcode](https://leetcode.com/problems/graph-valid-tree/)  
     Yet to solve
 
-13. [Course Schedule II](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="13-course-schedule-ii"></a>
+13. [Course Schedule II](/)<a name="13-course-schedule-ii"></a>
     > [Leetcode](https://leetcode.com/problems/course-schedule-ii/)  
     Yet to solve
 
-14. [Number of Connected Components in an Undirected Graph](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="14-number-of-connected-components-in-an-undirected-graph"></a>
+14. [Number of Connected Components in an Undirected Graph](/)<a name="14-number-of-connected-components-in-an-undirected-graph"></a>
     > [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)  
     Yet to solve
 
-15. [Minimum Knight Moves](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="15-minimum-knight-moves"></a>
+15. [Minimum Knight Moves](/)<a name="15-minimum-knight-moves"></a>
     > [Leetcode](https://leetcode.com/problems/minimum-knight-moves/)  
     Yet to solve
 
-16. [Cheapest Flights Within K Stops](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="16-cheapest-flights-within-k-stops"></a>
+16. [Cheapest Flights Within K Stops](/)<a name="16-cheapest-flights-within-k-stops"></a>
     > [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  
     Yet to solve
 
-17. [Word Ladder](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="17-word-ladder"></a>
+17. [Word Ladder](/)<a name="17-word-ladder"></a>
     > [Leetcode](https://leetcode.com/problems/word-ladder/)  
     Yet to solve
 
-18. [Longest Increasing Path in a Matrix](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="18-longest-increasing-path-in-a-matrix"></a>
+18. [Longest Increasing Path in a Matrix](/)<a name="18-longest-increasing-path-in-a-matrix"></a>
     > [Leetcode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  
     Yet to solve
 
-19. [Word Search II](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="19-word-search-ii"></a>
+19. [Word Search II](/)<a name="19-word-search-ii"></a>
     > [Leetcode](https://leetcode.com/problems/word-search-ii/)  
     Yet to solve
 
-20. [Alien Dictionary](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="20-alien-dictionary"></a>
+20. [Alien Dictionary](/)<a name="20-alien-dictionary"></a>
     > [Leetcode](https://leetcode.com/problems/alien-dictionary/)  
     Yet to solve
 
-21. [Bus Routes](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="21-bus-routes"></a>
+21. [Bus Routes](/)<a name="21-bus-routes"></a>
     > [Leetcode](https://leetcode.com/problems/bus-routes/)  
     Yet to solve
 
 ## Dynamic Programming <a name="8-dynamic-programming"></a>
 
-1. [Maximum Subarray](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-maximum-subarray"></a>
+1. [Maximum Subarray](/)<a name="1-maximum-subarray"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-subarray/)  
     Yet to solve
 
-2. [Climbing Stairs](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-climbing-stairs"></a>
+2. [Climbing Stairs](/)<a name="2-climbing-stairs"></a>
     > [Leetcode](https://leetcode.com/problems/climbing-stairs/)  
     Yet to solve
 
-3. [Coin Change](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-coin-change"></a>
+3. [Coin Change](/)<a name="3-coin-change"></a>
     > [Leetcode](https://leetcode.com/problems/coin-change/)  
     Yet to solve
 
-4. [Partition Equal Subset Sum](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-partition-equal-subset-sum"></a>
+4. [Partition Equal Subset Sum](/)<a name="4-partition-equal-subset-sum"></a>
     > [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)  
     Yet to solve
 
-5. [Unique Paths](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-unique-paths"></a>
+5. [Unique Paths](/)<a name="5-unique-paths"></a>
     > [Leetcode](https://leetcode.com/problems/unique-paths/)  
     Yet to solve
 
-6. [House Robber](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-house-robber"></a>
+6. [House Robber](/)<a name="6-house-robber"></a>
     > [Leetcode](https://leetcode.com/problems/house-robber/)  
     Yet to solve
 
-7. [Maximum Product Subarray](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-maximum-product-subarray"></a>
+7. [Maximum Product Subarray](/)<a name="7-maximum-product-subarray"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-product-subarray/)  
     Yet to solve
 
-8. [Longest Increasing Subsequence](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-longest-increasing-subsequence"></a>
+8. [Longest Increasing Subsequence](/)<a name="8-longest-increasing-subsequence"></a>
     > [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/)  
     Yet to solve
 
-9. [Jump Game](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="9-jump-game"></a>
+9. [Jump Game](/)<a name="9-jump-game"></a>
     > [Leetcode](https://leetcode.com/problems/jump-game/)  
     Yet to solve
 
-10. [Maximal Square](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="10-maximal-square"></a>
+10. [Maximal Square](/)<a name="10-maximal-square"></a>
     > [Leetcode](https://leetcode.com/problems/maximal-square/)  
     Yet to solve
 
-11. [Decode Ways](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="11-decode-ways"></a>
+11. [Decode Ways](/)<a name="11-decode-ways"></a>
     > [Leetcode](https://leetcode.com/problems/decode-ways/)  
     Yet to solve
 
-12. [Combination Sum IV](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="12-combination-sum-iv"></a>
+12. [Combination Sum IV](/)<a name="12-combination-sum-iv"></a>
     > [Leetcode](https://leetcode.com/problems/combination-sum-iv/)  
     Yet to solve
 
 ## Binary Search Tree <a name="9-binary-search-tree"></a>
 
-1. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-lowest-common-ancestor-of-a-binary-search-tree"></a>
+1. [Lowest Common Ancestor of a Binary Search Tree](/)<a name="1-lowest-common-ancestor-of-a-binary-search-tree"></a>
     > [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
     Yet to solve
 
-2. [Convert Sorted Array to Binary Search Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-convert-sorted-array-to-binary-search-tree"></a>
+2. [Convert Sorted Array to Binary Search Tree](/)<a name="2-convert-sorted-array-to-binary-search-tree"></a>
     > [Leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
     Yet to solve
 
-3. [Validate Binary Search Tree](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-validate-binary-search-tree"></a>
+3. [Validate Binary Search Tree](/)<a name="3-validate-binary-search-tree"></a>
     > [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)  
     Yet to solve
 
-4. [Kth Smallest Element in a BST](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-kth-smallest-element-in-a-bst"></a>
+4. [Kth Smallest Element in a BST](/)<a name="4-kth-smallest-element-in-a-bst"></a>
     > [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  
     Yet to solve
 
-5. [Inorder Successor in BST](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-inorder-successor-in-bst"></a>
+5. [Inorder Successor in BST](/)<a name="5-inorder-successor-in-bst"></a>
     > [Leetcode](https://leetcode.com/problems/inorder-successor-in-bst/)  
     Yet to solve
 
 ## Hash Table <a name="10-hash-table"></a>
 
-1. [Ransom Note](https://github.com/ibrahim-akrab/grind-75/blob/main/)<a name="1-ransom-note"></a>
+1. [Ransom Note](/)<a name="1-ransom-note"></a>
     > [Leetcode](https://leetcode.com/problems/ransom-note/)  
     Yet to solve
 
-2. [Insert Delete GetRandom O(1)](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-insert-delete-getrandom-o(1)"></a>
+2. [Insert Delete GetRandom O(1)](/)<a name="2-insert-delete-getrandom-o(1)"></a>
     > [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o(1)/)  
     Yet to solve
 
-3. [First Missing Positive](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-first-missing-positive"></a>
+3. [First Missing Positive](/)<a name="3-first-missing-positive"></a>
     > [Leetcode](https://leetcode.com/problems/first-missing-positive/)  
     Yet to solve
 
 ## Binary <a name="11-binary"></a>
 
-1. [Add Binary](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-add-binary"></a>
+1. [Add Binary](/)<a name="1-add-binary"></a>
     > [Leetcode](https://leetcode.com/problems/add-binary/)  
     Yet to solve
 
-2. [Counting Bits](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-counting-bits"></a>
+2. [Counting Bits](/)<a name="2-counting-bits"></a>
     > [Leetcode](https://leetcode.com/problems/counting-bits/)  
     Yet to solve
 
-3. [Number of 1 Bits](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-number-of-1-bits"></a>
+3. [Number of 1 Bits](/)<a name="3-number-of-1-bits"></a>
     > [Leetcode](https://leetcode.com/problems/number-of-1-bits/)  
     Yet to solve
 
-4. [Single Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-single-number"></a>
+4. [Single Number](/)<a name="4-single-number"></a>
     > [Leetcode](https://leetcode.com/problems/single-number/)  
     Yet to solve
 
-5. [Missing Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-missing-number"></a>
+5. [Missing Number](/)<a name="5-missing-number"></a>
     > [Leetcode](https://leetcode.com/problems/missing-number/)  
     Yet to solve
 
-6. [Reverse Bits](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-reverse-bits"></a>
+6. [Reverse Bits](/)<a name="6-reverse-bits"></a>
     > [Leetcode](https://leetcode.com/problems/reverse-bits/)  
     Yet to solve
 
-7. [Find the Duplicate Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-find-the-duplicate-number"></a>
+7. [Find the Duplicate Number](/)<a name="7-find-the-duplicate-number"></a>
     > [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/)  
     Yet to solve
 
 ## Math <a name="12-math"></a>
 
-1. [Roman to Integer](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-roman-to-integer"></a>
+1. [Roman to Integer](/)<a name="1-roman-to-integer"></a>
     > [Leetcode](https://leetcode.com/problems/roman-to-integer/)  
     Yet to solve
 
-2. [Palindrome Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-palindrome-number"></a>
+2. [Palindrome Number](/)<a name="2-palindrome-number"></a>
     > [Leetcode](https://leetcode.com/problems/palindrome-number/)  
     Yet to solve
 
-3. [Random Pick with Weight](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-random-pick-with-weight"></a>
+3. [Random Pick with Weight](/)<a name="3-random-pick-with-weight"></a>
     > [Leetcode](https://leetcode.com/problems/random-pick-with-weight/)  
     Yet to solve
 
-4. [Pow(x, n)](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-pow(x,-n)"></a>
+4. [Pow(x, n)](/)<a name="4-pow(x,-n)"></a>
     > [Leetcode](https://leetcode.com/problems/pow(x,-n)/)  
     Yet to solve
 
-5. [Reverse Integer](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-reverse-integer"></a>
+5. [Reverse Integer](/)<a name="5-reverse-integer"></a>
     > [Leetcode](https://leetcode.com/problems/reverse-integer/)  
     Yet to solve
 
 ## Heap <a name="13-heap"></a>
 
-1. [K Closest Points to Origin](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-k-closest-points-to-origin"></a>
+1. [K Closest Points to Origin](/)<a name="1-k-closest-points-to-origin"></a>
     > [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/)  
     Yet to solve
 
-2. [Task Scheduler](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-task-scheduler"></a>
+2. [Task Scheduler](/)<a name="2-task-scheduler"></a>
     > [Leetcode](https://leetcode.com/problems/task-scheduler/)  
     Yet to solve
 
-3. [Top K Frequent Words](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-top-k-frequent-words"></a>
+3. [Top K Frequent Words](/)<a name="3-top-k-frequent-words"></a>
     > [Leetcode](https://leetcode.com/problems/top-k-frequent-words/)  
     Yet to solve
 
-4. [Find K Closest Elements](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-find-k-closest-elements"></a>
+4. [Find K Closest Elements](/)<a name="4-find-k-closest-elements"></a>
     > [Leetcode](https://leetcode.com/problems/find-k-closest-elements/)  
     Yet to solve
 
-5. [Kth Largest Element in an Array](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-kth-largest-element-in-an-array"></a>
+5. [Kth Largest Element in an Array](/)<a name="5-kth-largest-element-in-an-array"></a>
     > [Leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/)  
     Yet to solve
 
-6. [Find Median from Data Stream](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-find-median-from-data-stream"></a>
+6. [Find Median from Data Stream](/)<a name="6-find-median-from-data-stream"></a>
     > [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/)  
     Yet to solve
 
-7. [Merge k Sorted Lists](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="7-merge-k-sorted-lists"></a>
+7. [Merge k Sorted Lists](/)<a name="7-merge-k-sorted-lists"></a>
     > [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)  
     Yet to solve
 
-8. [Smallest Range Covering Elements from K Lists](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="8-smallest-range-covering-elements-from-k-lists"></a>
+8. [Smallest Range Covering Elements from K Lists](/)<a name="8-smallest-range-covering-elements-from-k-lists"></a>
     > [Leetcode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)  
     Yet to solve
 
 ## Trie <a name="14-trie"></a>
 
-1. [Implement Trie (Prefix Tree)](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-implement-trie-(prefix-tree)"></a>
+1. [Implement Trie (Prefix Tree)](/)<a name="1-implement-trie-(prefix-tree)"></a>
     > [Leetcode](https://leetcode.com/problems/implement-trie-(prefix-tree)/)  
     Yet to solve
 
-2. [Word Break](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-word-break"></a>
+2. [Word Break](/)<a name="2-word-break"></a>
     > [Leetcode](https://leetcode.com/problems/word-break/)  
     Yet to solve
 
-3. [Design Add and Search Words Data Structure](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-design-add-and-search-words-data-structure"></a>
+3. [Design Add and Search Words Data Structure](/)<a name="3-design-add-and-search-words-data-structure"></a>
     > [Leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/)  
     Yet to solve
 
-4. [Design In-Memory File System](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-design-in-memory-file-system"></a>
+4. [Design In-Memory File System](/)<a name="4-design-in-memory-file-system"></a>
     > [Leetcode](https://leetcode.com/problems/design-in-memory-file-system/)  
     Yet to solve
 
 ## Recursion <a name="15-recursion"></a>
 
-1. [Permutations](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-permutations"></a>
+1. [Permutations](/)<a name="1-permutations"></a>
     > [Leetcode](https://leetcode.com/problems/permutations/)  
     Yet to solve
 
-2. [Subsets](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-subsets"></a>
+2. [Subsets](/)<a name="2-subsets"></a>
     > [Leetcode](https://leetcode.com/problems/subsets/)  
     Yet to solve
 
-3. [Letter Combinations of a Phone Number](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-letter-combinations-of-a-phone-number"></a>
+3. [Letter Combinations of a Phone Number](/)<a name="3-letter-combinations-of-a-phone-number"></a>
     > [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
     Yet to solve
 
-4. [Next Permutation](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-next-permutation"></a>
+4. [Next Permutation](/)<a name="4-next-permutation"></a>
     > [Leetcode](https://leetcode.com/problems/next-permutation/)  
     Yet to solve
 
-5. [Generate Parentheses](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-generate-parentheses"></a>
+5. [Generate Parentheses](/)<a name="5-generate-parentheses"></a>
     > [Leetcode](https://leetcode.com/problems/generate-parentheses/)  
     Yet to solve
 
-6. [N-Queens](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="6-n-queens"></a>
+6. [N-Queens](/)<a name="6-n-queens"></a>
     > [Leetcode](https://leetcode.com/problems/n-queens/)  
     Yet to solve
 
 ## Matrix <a name="16-matrix"></a>
 
-1. [Spiral Matrix](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="1-spiral-matrix"></a>
+1. [Spiral Matrix](/)<a name="1-spiral-matrix"></a>
     > [Leetcode](https://leetcode.com/problems/spiral-matrix/)  
     Yet to solve
 
-2. [Valid Sudoku](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="2-valid-sudoku"></a>
+2. [Valid Sudoku](/)<a name="2-valid-sudoku"></a>
     > [Leetcode](https://leetcode.com/problems/valid-sudoku/)  
     Yet to solve
 
-3. [Rotate Image](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="3-rotate-image"></a>
+3. [Rotate Image](/)<a name="3-rotate-image"></a>
     > [Leetcode](https://leetcode.com/problems/rotate-image/)  
     Yet to solve
 
-4. [Set Matrix Zeroes](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="4-set-matrix-zeroes"></a>
+4. [Set Matrix Zeroes](/)<a name="4-set-matrix-zeroes"></a>
     > [Leetcode](https://leetcode.com/problems/set-matrix-zeroes/)  
     Yet to solve
 
-5. [Sudoku Solver](https://github.com/ibrahim-akrab/Grind-75/blob/main/)<a name="5-sudoku-solver"></a>
+5. [Sudoku Solver](/)<a name="5-sudoku-solver"></a>
     > [Leetcode](https://leetcode.com/problems/sudoku-solver/)  
     Yet to solve
 
 ## Queue <a name="17-queue"></a>
 
-1. [Design Hit Counter](https://github.com/ibrahim-akrabibrahim-akrab/Grind-75/blob/main/)<a name="1-design-hit-counter"></a>
+1. [Design Hit Counter](/)<a name="1-design-hit-counter"></a>
     > [Leetcode](https://leetcode.com/problems/design-hit-counter/)  
     Yet to solve
